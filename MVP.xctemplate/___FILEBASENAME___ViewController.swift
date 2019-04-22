@@ -1,8 +1,9 @@
 import UIKit
+import Reusable
 
 final class ___VARIABLE_featureName___ViewController: UIViewController, StoryboardBased {
 
-    private var presenter: ___VARIABLE_featureName___Module.Presenter?
+    var presenter: ___VARIABLE_featureName___Module.Presenter?
 
     override func viewDidLoad() {
         super.viewDidLoad()
