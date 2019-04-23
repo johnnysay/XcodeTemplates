@@ -7,7 +7,7 @@ enum ___VARIABLE_featureName___Module {
     typealias Presenter = ___VARIABLE_featureName___PresenterProtocol
     typealias Service = ___VARIABLE_featureName___ServiceProtocol
 
-    var viewController: ___VARIABLE_featureName___ViewController {
+    static var viewController: ___VARIABLE_featureName___ViewController {
         let vc = ___VARIABLE_featureName___ViewController.instantiate()
         let model = ___VARIABLE_featureName___Model()
         let presenter = ___VARIABLE_featureName___Presenter(model: model, view: vc)
