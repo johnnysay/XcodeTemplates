@@ -8,6 +8,6 @@ final class ___VARIABLE_featureName___Service {
 }
 
 // MARK: - ___VARIABLE_featureName___Module.Service
-extension ___VARIABLE_featureName___Model: ___VARIABLE_featureName___Module.Service {
+extension ___VARIABLE_featureName___Service: ___VARIABLE_featureName___Module.Service {
 	
 }
