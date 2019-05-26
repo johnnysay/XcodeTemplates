@@ -12,7 +12,7 @@
     <scenes>
         <scene sceneID="6t6-KF-Pvz">
             <objects>
-                <viewController id="eM5-DB-3Hz" customClass="___FILEBASENAME___ViewController" sceneMemberID="viewController">
+                <viewController id="eM5-DB-3Hz" customClass="___FILEBASENAME___" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="QL1-A9-Grj">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
