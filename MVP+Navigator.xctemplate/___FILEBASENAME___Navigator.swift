@@ -6,11 +6,11 @@ final class ___VARIABLE_featureName___Navigator: Navigator {
 
     }
 
-    private let navigationController: UINavigationController
+    private weak var navigationController: UINavigationController?
 
     // MARK: - Initializer
 
-    init(navigationController: UINavigationController) {
+    init(navigationController: UINavigationController?) {
         self.navigationController = navigationController
     }
 
