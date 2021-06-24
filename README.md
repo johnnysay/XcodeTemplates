@@ -2,7 +2,7 @@
 
 Create or go to:
 ```
-~/Library/Developer/Xcode/Templates/File Templates/iOS/Source/
+~/Library/Developer/Xcode/Templates/File\ Templates/iOS/Source/
 ```
 There you can insert your .xctemplate files.
 
