@@ -7,8 +7,6 @@ struct ___FILEBASENAME___: View {
     }
 }
 
-struct ___FILEBASENAME____Previews: PreviewProvider {
-    static var previews: some View {
-        ___FILEBASENAME___()
-    }
+#Preview {
+    ___FILEBASENAME___()
 }
